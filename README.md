@@ -12,7 +12,7 @@ This repository holds the discipline's definition: what Source Engineering is, w
 
 ## Provenance
 
-The content in this repository was developed in two essays by Emmanuel A. Otchere:
+The content in this repository was developed following two essays:
 
 - [Source Engineering: Grounding AI-based Decisions with Integrity (December 2025)](https://nuel.otchere.com/posts/2025/12/source-engineering-grounding-ai-based-decisions-with-integrity.html) -- introduces the five pillars and the hesitation factor.
 - [Reframing the Five Pillars, One Year Later (October 2026)](https://nuel.otchere.com/posts/2026/10/reframing-the-five-pillars-one-year-later.html) -- reframes the five pillars into a four-layer stack and identifies the judgment gap.
